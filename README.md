@@ -159,7 +159,7 @@ This will set up a loop through all items in `@friends` and then place each item
 <h2>Harriet Tubman</h2>
 <h2>Joan of Arc</h2>
 <h2>Malala Yousafzai</h2>
-<h2>Sojourner Truth</h2>
+<h2>Sojourner Truth</h2> 
 ```
 You can imagine how powerful iteration in erb is when you have an array of thousands of items that you have to display in your view!
 
